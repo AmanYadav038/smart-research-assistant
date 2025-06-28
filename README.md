@@ -89,10 +89,10 @@ iii. It evaluates your responses with verdict and justification.
 ## 📸 Screenshots
 
 ### 🔼 Upload and Summary
-![Upload UI](AppImages/homeUI.png)
+![Upload UI](App%20Images/homeUI.png)
 
 ### 💬 Ask Anything Mode
-![Ask Anything](AppImages/ask_anything_working.png)
+![Ask Anything](App%20Images/ask_anything_working.png)
 
 ### 🎯 Challenge Me Mode
-![Challenge Mode](AppImages/challenge_mode_working.png)
+![Challenge Mode](App%20Images/challenge_mode_working.png)
